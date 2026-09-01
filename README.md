@@ -123,7 +123,7 @@ El dashboard permite visualizar indicadores relacionados con:
 * Número de empleados.
 
 **Dashboard público:**
-[Agregar aquí el enlace público de Power BI]
+https://app.powerbi.com/view?r=eyJrIjoiODFkODE4ZWEtZmI2MS00YWFkLTg2MzAtMDgyMzA3ZGViMWY4IiwidCI6ImE5ZTE3ZjllLTkwYmUtNDFkMC04NGViLTZhNDhlYmU5ZmVjMCIsImMiOjR9
 
 ---
 
