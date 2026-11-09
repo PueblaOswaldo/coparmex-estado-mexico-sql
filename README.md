@@ -214,9 +214,7 @@ A partir de las consultas realizadas fue posible analizar:
 * Los ingresos asociados a los diferentes tipos de membresía.
 * La relación entre ubicación geográfica y actividad económica.
 
-El principal aprendizaje del proyecto fue pasar de una base de datos estructurada a información que puede utilizarse para **identificar patrones, segmentar empresas y plantear nuevas preguntas de negocio**.
 
-Es importante destacar que el análisis no pretende establecer decisiones empresariales definitivas, sino demostrar cómo un analista puede utilizar SQL para transformar datos operativos en información útil para la toma de decisiones.
 
 
 
